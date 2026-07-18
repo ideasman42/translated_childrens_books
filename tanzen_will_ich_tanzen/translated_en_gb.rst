@@ -3,6 +3,10 @@
 Dance Will I, Dance
 ###################
 
+..
+   my-pdf:font-size=9
+   my-pdf:font=ITC Souvenir Std
+
 
 Page 1
 ======

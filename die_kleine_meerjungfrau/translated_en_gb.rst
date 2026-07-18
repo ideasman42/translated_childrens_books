@@ -2,6 +2,10 @@
 The Little Mermaid
 ##################
 
+..
+   my-pdf:font-size=9
+   my-pdf:font=ITC Souvenir Std
+
 .. |__| unicode:: 0xA0 0xA0
    :rtrim:
 

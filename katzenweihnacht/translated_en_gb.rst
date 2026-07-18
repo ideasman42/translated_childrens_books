@@ -2,6 +2,10 @@
 A Cat's Christmas
 #################
 
+..
+   my-pdf:font-size=9.5
+   my-pdf:font=ITC Souvenir Std
+
 
 Page 1
 ======

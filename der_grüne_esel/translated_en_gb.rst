@@ -2,6 +2,10 @@
 The Green Ass
 #############
 
+..
+   my-pdf:font-size=9.5
+   my-pdf:font=ITC Souvenir Std
+
 .. |__| unicode:: 0xA0 0xA0
    :rtrim:
 
